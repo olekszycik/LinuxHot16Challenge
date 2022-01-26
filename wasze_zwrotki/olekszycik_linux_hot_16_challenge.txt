@@ -3,8 +3,9 @@
 
 # HOT 16
 
-# 1. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 1. komenda:
+pwd
+# Gdzie ja jestem, w jakim miejscu w drzewie.
 
 # 2. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.

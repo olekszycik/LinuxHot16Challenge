@@ -3,9 +3,8 @@
 
 # HOT 16
 
-# 1. komenda:
-pwd
-# Gdzie ja jestem, w jakim miejscu w drzewie.
+# 1. komenda: pwd
+# Gdzie ja jestem, w jakim miejscu, katalogu na serwerze
 
 # 2. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
